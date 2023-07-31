@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Portrait",
+    "imgUrl": "src/assets/images/pablo.jpg",
+    "price": 500000
+  },
+  {
+    "id": 1,
+    "name": "Avignon",
+    "imgUrl": "src/assets/images/avignon.jpg",
+    "price": 300000
+  },
+  {
+    "id": 1,
+    "name": "Dora",
+    "imgUrl": "src/assets/images/dora.jpg",
+    "price": 700000
+  }
+]
